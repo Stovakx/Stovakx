@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Robin Palatas
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on front-end 
-- 📫 How to reach me e-mail: Robin.Palatas@gmail.com, discord: Stovak#2041
+- 🌱 I’m currently mastering Bootstrap. After I want to learn React.
+- 💞️ I’m looking for junior jobs with HTML, css(Bootstrap), javascript and always with something new.
+- 📫 How to reach me e-mail: Robin.Palatas@gmail.com, discord: Stovak#2041, WhatsApp tel.: +420 776468016
 
 <!---
 Stovakx/Stovakx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
