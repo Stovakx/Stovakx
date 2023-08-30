@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am 27 years old "junior fullstack developer" loving javascript. Curently I am learning mastering javascript and react.js. Next will be mastering NodeJs. I am curently working on cimiel.cz(sample website of their work, waiting for images and stylization to complete project). 
+I am 27 years old web developer loving javascript. Curently I am learning mastering javascript and react.js. Next will be mastering NodeJs. I am curently working on cimiel.cz(sample website of their work, waiting for images and stylization to complete project). 
 
 As side project I am creating chat clone with Node.JS on backend and React on frontend. Now i am completing everything on backend. After i will start build frontend and maybe then I will use React native for phone devices.
 
