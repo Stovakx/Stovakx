@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am 27 years old web developer loving javascript. Curently I am learning mastering javascript and react.js. Next will be mastering NodeJs. I am curently working on cimiel.cz(sample website of their work, waiting for images and stylization to complete project). 
+I am 29 years old web developer loving javascript. Curently I am learning mastering javascript and react.js. Next will be mastering NodeJs. I am curently working on cimiel.cz(sample website of their work, waiting for images and stylization to complete project). 
 
 
 
